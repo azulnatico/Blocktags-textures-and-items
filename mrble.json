@@ -1,0 +1,66 @@
+{"multipart":[
+{
+    "apply": {
+      "model": "circle:block/green_marble8"
+    },
+    "when": {
+      "rightzx": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble5"
+    },
+    "when": {
+      "rightzy": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble3"
+    },
+    "when": {
+      "rightyx": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble6"
+    },
+    "when": {
+      "rightz": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble4"
+    },
+    "when": {
+      "righty": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble2"
+    },
+    "when": {
+      "rightx": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble1"
+    },
+    "when": {
+      "right": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/green_marble7"
+    },
+    "when": {
+      "rightxyz": "true"
+    }
+  }
+]}

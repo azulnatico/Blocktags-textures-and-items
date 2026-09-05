@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model" : "circle:block/fadestone_slab"
+    },
+    "type=double": {
+      "model" : "circle:block/fadestone"
+    },
+    "type=top": {
+      "model" : "circle:block/fadestone_slab_top"
+    }
+  }
+}

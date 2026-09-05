@@ -1,0 +1,19 @@
+{"multipart":[
+  {
+    "apply": {
+      "model": "circle:block/cherry_lamp"
+    },
+    "when": {
+      "lit": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/cherry_lamp_off"
+    },
+    "when": {
+      "lit": "false"
+    }
+  }
+
+]}

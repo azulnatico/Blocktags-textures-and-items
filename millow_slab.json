@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model" : "circle:block/millow_slab"
+    },
+    "type=double": {
+      "model" : "circle:block/millow_pranks"
+    },
+    "type=top": {
+      "model" : "circle:block/millow_slab_top"
+    }
+  }
+}

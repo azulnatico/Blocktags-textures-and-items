@@ -1,0 +1,19 @@
+{"multipart":[
+  {
+    "apply": {
+      "model": "circle:block/oak_lamp_lit"
+    },
+    "when": {
+      "lit": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/blue_terracotta_slab"
+    },
+    "when": {
+      "lit": "false"
+    }
+  }
+
+]}

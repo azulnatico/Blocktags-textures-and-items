@@ -1,0 +1,88 @@
+{"multipart":
+        [
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_big"
+            },
+            "when": {
+              "sizer": "big"
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_medium"
+            },
+            "when": {
+              "sizer": "medium"
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_little"
+            },
+            "when": {
+              "sizer": "little"
+            }
+          },
+
+
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_arm"
+            },
+            "when": {
+              "below": true
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_arm",
+              "z": 180
+            },
+            "when": {
+              "above": true
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_arm",
+              "z": 90
+            },
+            "when": {
+              "east": true
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_arm",
+              "z": 90,
+              "x": 180
+            },
+            "when": {
+              "west": true
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_arm",
+              "z": 90,
+              "x": 90
+            },
+            "when": {
+              "north": true
+            }
+          },
+          {
+            "apply": {
+              "model": "circle:block/liquid_smooth_arm",
+              "z": 90,
+              "x": 270
+            },
+            "when": {
+              "south": true
+            }
+          }
+        ]
+
+
+}

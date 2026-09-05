@@ -1,0 +1,318 @@
+{"multipart": [
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_base"
+    },
+    "when": {
+      "place": "above",
+      "thickness": "base"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_frustum"
+    },
+    "when": {
+      "place": "above",
+      "thickness": "frustum"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_middle"
+    },
+    "when": {
+      "place": "above",
+      "thickness": "medium"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_tip"
+    },
+    "when": {
+      "place": "above",
+      "thickness": "tip"
+    }
+  },
+
+
+
+
+
+
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_base",
+
+      "z": 180
+    },
+    "when": {
+      "place": "below",
+      "thickness": "base"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_frustum",
+
+      "z": 180
+    },
+    "when": {
+      "place": "below",
+      "thickness": "frustum"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_middle",
+
+      "z": 180
+    },
+    "when": {
+      "place": "below",
+      "thickness": "medium"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_tip",
+
+      "z": 180
+    },
+    "when": {
+      "place": "below",
+      "thickness": "tip"
+    }
+  },
+
+
+
+
+
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_base",
+
+      "z": 90,
+      "x": 180
+    },
+    "when": {
+      "place": "west",
+      "thickness": "base"
+
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_frustum",
+
+      "z": 90,
+      "x": 180
+    },
+    "when": {
+      "place": "west",
+      "thickness": "frustum"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_middle",
+
+      "z": 90,
+      "x": 180
+    },
+    "when": {
+      "place": "west",
+      "thickness": "medium"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_tip",
+      "z": 90,
+      "x": 180
+
+    },
+    "when": {
+      "place": "west",
+      "thickness": "tip"
+    }
+  },
+
+
+
+
+
+
+
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_base",
+
+      "z": 90
+
+
+    },
+    "when": {
+      "place": "east",
+      "thickness": "base"
+
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_frustum",
+
+      "z": 90
+
+    },
+    "when": {
+      "place": "east",
+      "thickness": "frustum"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_middle",
+
+      "z": 90
+
+    },
+    "when": {
+      "place": "east",
+      "thickness": "medium"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_tip",
+
+      "z": 90
+
+    },
+    "when": {
+      "place": "east",
+      "thickness": "tip"
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_base",
+
+      "z": 90,
+      "x": 270
+
+    },
+    "when": {
+      "place": "south",
+      "thickness": "base"
+
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_frustum",
+
+      "z": 90,
+      "x": 270
+    },
+    "when": {
+      "place": "south",
+      "thickness": "frustum"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_middle",
+
+      "z": 90,
+      "x": 270
+    },
+    "when": {
+      "place": "south",
+      "thickness": "medium"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_tip",
+
+      "z": 90,
+      "x": 270
+    },
+    "when": {
+      "place": "south",
+      "thickness": "tip"
+    }
+  },
+
+
+
+
+
+
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_base",
+
+      "z": 90,
+      "x": 90
+
+    },
+    "when": {
+      "place": "north",
+      "thickness": "base"
+
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_frustum",
+
+      "z": 90,
+      "x": 90
+    },
+    "when": {
+      "place": "north",
+      "thickness": "frustum"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_middle",
+
+      "z": 90,
+      "x": 90
+    },
+    "when": {
+      "place": "north",
+      "thickness": "medium"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/indigo_pointed_fadestone_tip",
+
+      "z":270,
+      "x": 90
+    },
+    "when": {
+      "place": "north",
+      "thickness": "tip"
+    }
+  }
+]
+
+
+}

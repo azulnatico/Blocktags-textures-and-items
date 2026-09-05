@@ -1,0 +1,66 @@
+{"multipart":[
+  {
+    "apply": {
+      "model": "circle:block/dry_icezx"
+    },
+    "when": {
+      "rightzx": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_icezy"
+    },
+    "when": {
+      "rightzy": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_iceyx"
+    },
+    "when": {
+      "rightyx": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_icez"
+    },
+    "when": {
+      "rightz": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_icey"
+    },
+    "when": {
+      "righty": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_icex"
+    },
+    "when": {
+      "rightx": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_ice"
+    },
+    "when": {
+      "right": "true"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/dry_icexyz"
+    },
+    "when": {
+      "rightxyz": "true"
+    }
+  }
+]}

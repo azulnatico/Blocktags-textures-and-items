@@ -1,0 +1,30 @@
+{"multipart":[
+  {
+    "apply": {
+      "model": "circle:block/fadestone_lamp"
+    },
+    "when": {
+      "lit": "true"
+
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/fadestone_lamp_off"
+    },
+    "when": {
+      "lit": "false"
+    }
+  },
+  {
+    "apply": {
+      "model": "circle:block/fadestone_lamp_block"
+    },
+    "when": {
+
+      "form": "true"
+    }
+  }
+
+
+]}
